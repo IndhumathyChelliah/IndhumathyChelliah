@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on medium profile and pursuing PG Diploma in Machine Learning and Artificial Intelligence
+- 🔭 I’m currently working on medium profile and pursuing Masters in Machine Learning and Artificial Intelligence
 
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence 
 
