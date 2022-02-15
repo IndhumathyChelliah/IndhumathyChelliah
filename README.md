@@ -110,6 +110,9 @@
 |Different Ways to Replace Occurences of a Substring in Python Strings |  [Blog](https://blog.devgenius.io/different-ways-to-replace-occurences-of-a-substring-in-python-strings-2911b1f7bf86) |
 |New String Methods to Remove Prefixes and Suffixes in Python 3.9|  [Blog](https://blog.devgenius.io/new-string-methods-to-remove-prefixes-and-suffixes-in-python-3-9-4d5b3a5b034f) | 
 |5 Different Ways to Remove Specific Characters From a String in Python|  [Blog](https://betterprogramming.pub/5-different-ways-to-remove-specific-characters-from-a-string-in-python-b0e081839ab9) | 
+ |split() vs. partition() in Python Strings |  [Blog](https://betterprogramming.pub/split-vs-partition-in-python-strings-9505d070af55) |
+|Remove Whitespaces from Strings in Python|  [Blog](https://levelup.gitconnected.com/remove-whitespaces-from-strings-in-python-c5ee612ee9dc) | 
+5 Ways to Find the Index of a Substring in Python|  [Blog](https://betterprogramming.pub/5-ways-to-find-the-index-of-a-substring-in-python-13d5293fc76d) | 
   
   ### 7. Importing Packages/Modules
   
