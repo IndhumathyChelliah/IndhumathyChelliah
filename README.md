@@ -135,7 +135,7 @@
    | Topic          |  Article |
 |-----------------|------:|
 |5 Types of Arguments in Python Function Definitions |  [Blog](https://levelup.gitconnected.com/5-types-of-arguments-in-python-function-definition-e0e2a2cafd29) |
-|Importing Modules in Python|  [Blog](https://blog.devgenius.io/importing-modules-in-python-ef4a514870bf) | 
+|Everything You Ever Wanted to Know About Python Return Statements|  [Blog](https://betterprogramming.pub/everything-you-ever-wanted-to-know-about-python-return-statements-c14f6c749ff2) | 
   
   ### 10. Built-in Functions in Python
   
