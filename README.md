@@ -149,11 +149,12 @@
   
   ### 11. Higher-Order Function
   
-     | Topic          |  Article |
+  | Topic          |  Article |
 |-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
+| An Introduction to the Python Range Function. |  [Blog](https://blog.devgenius.io/an-introduction-to-the-python-range-function-8dc8047161ef) |
+| Shallow Copy vs Deep Copy vs Assignment in Python|  [Blog](https://medium.com/analytics-vidhya/shallow-copy-vs-deep-copy-vs-assignment-in-python-921d7e413a3a) | 
+| Different Ways of Using Sorted Function in Python |  [Blog](https://medium.com/analytics-vidhya/sorted-function-using-key-parameter-in-python-7aa9b8cebfb6) |
+| How to Use Key Function in Max() and Min() in Python | [Blog](https://medium.com/analytics-vidhya/how-to-use-key-function-in-max-and-min-in-python-1fdbd661c59c)  
   
   
   ### 12. Pandas
