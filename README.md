@@ -171,10 +171,9 @@
   
  | Topic          |  Article |
 |-----------------|------:|
-| An Introduction to the Python Range Function. |  [Blog](https://blog.devgenius.io/an-introduction-to-the-python-range-function-8dc8047161ef) |
-| Shallow Copy vs Deep Copy vs Assignment in Python|  [Blog](https://medium.com/analytics-vidhya/shallow-copy-vs-deep-copy-vs-assignment-in-python-921d7e413a3a) | 
-| Different Ways of Using Sorted Function in Python |  [Blog](https://medium.com/analytics-vidhya/sorted-function-using-key-parameter-in-python-7aa9b8cebfb6) |
-| How to Use Key Function in Max() and Min() in Python | [Blog](https://medium.com/analytics-vidhya/how-to-use-key-function-in-max-and-min-in-python-1fdbd661c59c)  
+| How to Index Data in Python Numpy Arrays|  [Blog](https://betterprogramming.pub/how-to-index-data-in-python-numpy-arrays-1274ce968390) |
+| 10 Ways to Create Numpy Arrays|  [Blog](https://medium.com/analytics-vidhya/numpy-b741a49eae14) | 
+| Beginner’s Guide to NumPy for Data Science |  [Blog](https://pub.towardsai.net/beginners-guide-to-numpy-for-data-science-476f428adbdf) |
   
   
 
