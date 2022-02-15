@@ -57,10 +57,10 @@
 
 | Topic          |  Article |
 |-----------------|------:|
-| An Introduction to Python List |  | [Blog](https://medium.com/swlh/python-list-79ef2e183d60) |
-| An Introduction to Python Dictionary|  | [Blog](https://medium.com/analytics-vidhya/an-introduction-to-python-dictionary-520302924ef8) | 
-| An Introduction to Python Tuple | |  [Blog](https://medium.com/analytics-vidhya/an-introduction-to-python-tuple-adc0a0fe024d) |
-| An Introduction to Python Sets | | [Blog](https://medium.com/analytics-vidhya/python-sets-8e38a8bfb98c)  
+| An Introduction to Python List |  [Blog](https://medium.com/swlh/python-list-79ef2e183d60) |
+| An Introduction to Python Dictionary|  [Blog](https://medium.com/analytics-vidhya/an-introduction-to-python-dictionary-520302924ef8) | 
+| An Introduction to Python Tuple |  [Blog](https://medium.com/analytics-vidhya/an-introduction-to-python-tuple-adc0a0fe024d) |
+| An Introduction to Python Sets | [Blog](https://medium.com/analytics-vidhya/python-sets-8e38a8bfb98c)  
 
 
 
