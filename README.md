@@ -38,6 +38,15 @@
 <a href = 'https://medium.com/@IndhumathyChelliah'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://indhumathychelliah.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/IndhumathyChelliah'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+  
+  - Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/indhumathy-chelliah/)
+  - [![alt text][1.2]][1][Twitter](https://twitter.com/IndhuChelliah)
+- 📫 Learn more about me on:  
+  - :bulb: [Medium](https://medium.com/@indhumathychelliah)
+  - :pencil2: [My site](https://indhumathychelliah.com/)
+  - :dart: [Projects](https://github.com/IndhumathyChelliah/)
+  - :Tableau: [Tableau](https://public.tableau.com/app/profile/indhumathychelliah)
 
 
 
