@@ -77,7 +77,18 @@
 |5 Different Ways to Sort Python Dictionary | [Blog](https://blog.devgenius.io/5-different-ways-to-sort-python-dictionary-e20274fdf304) 
 |10 Important Tips for Using Nested Lists in Python|  [Blog](https://betterprogramming.pub/10-important-tips-for-using-nested-lists-in-python-38ceca68be35) |
 |5 Different Ways to Copy List in Python | [Blog](https://blog.devgenius.io/5-different-ways-to-copy-list-in-python-9478bc6d8f02) 
-
+  
+  ### 3. Operators in Python
+  ### 4. Python Basics
+  ### 5. Loops in Python
+  ### 6. String Methods:
+  ### 7. Importing Packages/Modules
+  ### 8. Indexing and Slicing in Python
+  ### 9. Functions in Python
+  ### 10. Built-in Functions in Python
+  ### 11. Higher-Order Function
+  ### 12. Pandas
+  ### 13. Numpy
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
