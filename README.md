@@ -53,6 +53,16 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  ## Python Blogs
+
+| Topic   |      Code      |  Article |
+|----------|:-------------:|------:|
+| An Introduction to Python List |  | [Blog](https://medium.com/swlh/python-list-79ef2e183d60-------------------------------------) |
+| An Introduction to Python Dictionary|  | [Blog]https://medium.com/analytics-vidhya/an-introduction-to-python-dictionary-520302924ef8-------------------------------------) | 
+| An Introduction to Python Tuple | |  [Blog](https://medium.com/analytics-vidhya/an-introduction-to-python-tuple-adc0a0fe024d----------------------------------------) |
+| An Introduction to Python Sets | | [Blog](https://medium.com/analytics-vidhya/python-sets-8e38a8bfb98c)  
+
+
 
 
 <br>
