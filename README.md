@@ -105,11 +105,11 @@
   
   ### 6. String Methods:
   
-     | Topic          |  Article |
+   | Topic          |  Article |
 |-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
+|Different Ways to Replace Occurences of a Substring in Python Strings |  [Blog](https://blog.devgenius.io/different-ways-to-replace-occurences-of-a-substring-in-python-strings-2911b1f7bf86) |
+|New String Methods to Remove Prefixes and Suffixes in Python 3.9|  [Blog](https://blog.devgenius.io/new-string-methods-to-remove-prefixes-and-suffixes-in-python-3-9-4d5b3a5b034f) | 
+|5 Different Ways to Remove Specific Characters From a String in Python|  [Blog](https://betterprogramming.pub/5-different-ways-to-remove-specific-characters-from-a-string-in-python-b0e081839ab9) | 
   
   ### 7. Importing Packages/Modules
   
