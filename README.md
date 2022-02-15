@@ -87,15 +87,92 @@
 | New Union Operators to Merge Dictionaries in Python 3.9 |  [Blog](https://betterprogramming.pub/new-union-operators-to-merge-dictionaries-in-python-3-9-8c7dbbd1080c) |
  
   ### 4. Python Basics
+  
+   | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
   ### 5. Loops in Python
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
   ### 6. String Methods:
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
   ### 7. Importing Packages/Modules
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
   ### 8. Indexing and Slicing in Python
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
   ### 9. Functions in Python
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
   ### 10. Built-in Functions in Python
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
   ### 11. Higher-Order Function
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
   ### 12. Pandas
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
   ### 13. Numpy
+  
+     | Topic          |  Article |
+|-----------------|------:|
+|  |  [Blog]() |
+| |  [Blog]() | 
+|  |  [Blog]() |
+  
+  
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
