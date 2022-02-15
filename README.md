@@ -96,11 +96,12 @@
   
   ### 5. Loops in Python
   
-     | Topic          |  Article |
+   | Topic          |  Article |
 |-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
+|4 ‘Else Clauses’ in Python |  [Blog](https://levelup.gitconnected.com/4-else-clauses-in-python-d4e7ccd2432) |
+| Break, Continue, and Else Clauses on Loops in Python|  [Blog](https://betterprogramming.pub/break-continue-and-else-clauses-on-loops-in-python-b4cdb57d12aa) | 
+|Looping Techniques in Python|  [Blog](https://medium.com/analytics-vidhya/looping-techniques-in-python-3bbf907b8dfa) |   
+
   
   ### 6. String Methods:
   
