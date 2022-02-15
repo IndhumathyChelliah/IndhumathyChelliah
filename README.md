@@ -175,14 +175,27 @@
 | Beginner’s Guide to NumPy for Data Science |  [Blog](https://pub.towardsai.net/beginners-guide-to-numpy-for-data-science-476f428adbdf) |
   
   ## Data Science Blogs
-  ### 1.Statistics
+  ### 1. Statistics
 | Topic   |      Code      |  Article |
 |----------|:-------------:|------:|
 | Exploring Descriptive Statistics Using Pandas and Seaborn  | [Code](https://github.com/IndhumathyChelliah/statistics_python/tree/master/descriptive_statistics)  | [Blog](https://pub.towardsai.net/exploring-descriptive-statistics-using-pandas-and-seaborn-1b8501e1f27f)
 | Inferential Statistics for Data Science |  | [Blog](https://pub.towardsai.net/inferential-statistics-for-data-science-91cf4e0692b1)
+| Central Limit Theorem — Clearly Explained |  | [Blog](https://towardsdatascience.com/central-limit-theorem-clearly-explained-4fe60def52d6)
+| Important Terms in Statistics- Machine Learning |  | [Blog](https://medium.com/analytics-vidhya/important-terms-in-statistics-machine-learning-4bfa5962e9be)
+|Hypothesis Testing- Test of Mean, Variance, Proportion |  | [Blog](https://pub.towardsai.net/hypothesis-testing-test-of-mean-variance-proportion-77ec2bfdd749)
+
+ ### 2. Linear Algebra
+| Topic   |      Code      |  Article |
+|----------|:-------------:|------:|
+| Essential Math for DataScience — Linear Algebra |  | [Blog](https://medium.com/analytics-vidhya/essential-math-for-datascience-linear-algebra-ca37ef192cd2)
 
 
+ ### 3. Data Preprocessing
+| Topic   |      Code      |  Article |
+|----------|:-------------:|------:|
+|Data Cleaning — How to Handle Missing Values with Pandas |  | [Blog](https://towardsdatascience.com/data-cleaning-how-to-handle-missing-values-in-pandas-cc8570c446ec)
+|String Operations on Pandas DataFrame |  | [Blog](https://blog.devgenius.io/string-operations-on-pandas-dataframe-88af220439d1)
 
-
+ ### 4. Data Visualization
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
