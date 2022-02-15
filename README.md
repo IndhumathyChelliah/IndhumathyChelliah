@@ -79,6 +79,13 @@
 |5 Different Ways to Copy List in Python | [Blog](https://blog.devgenius.io/5-different-ways-to-copy-list-in-python-9478bc6d8f02) 
   
   ### 3. Operators in Python
+  
+ | Topic          |  Article |
+|-----------------|------:|
+| Concatenation (+) and Repetition (*) in Python |  [Blog](https://codeburst.io/concatenation-and-repetition-in-python-d3f843a683c8) |
+| The Special Meaning of Underscores in Python|  [Blog](https://betterprogramming.pub/the-special-meaning-of-underscores-in-python-9ceaaeb41007) | 
+| New Union Operators to Merge Dictionaries in Python 3.9 |  [Blog](https://betterprogramming.pub/new-union-operators-to-merge-dictionaries-in-python-3-9-8c7dbbd1080c) |
+ 
   ### 4. Python Basics
   ### 5. Loops in Python
   ### 6. String Methods:
