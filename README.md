@@ -66,7 +66,11 @@
 | 7 Different Ways to Merge Dictionaries in Python |  [Blog](https://levelup.gitconnected.com/7-different-ways-to-merge-dictionaries-in-python-30148bf27add) |
 | Mathematical Set Operations in Python|  [Blog](https://betterprogramming.pub/mathematical-set-operations-in-python-e065aac07413) | 
 |15 Things to Know to Master Python Dictionaries|  [Blog](https://medium.com/analytics-vidhya/15-things-to-know-to-master-python-dictionaries-56ab7edc3482) |
-|10 Ways to Convert Lists to Dictionaries in Python | [Blog](https://betterprogramming.pub/10-ways-to-convert-lists-to-dictionaries-in-python-d2c728d2aeb8)  
+|10 Ways to Convert Lists to Dictionaries in Python | [Blog](https://betterprogramming.pub/10-ways-to-convert-lists-to-dictionaries-in-python-d2c728d2aeb8)
+|Dictionary View Objects 101 |  [Blog](https://codeburst.io/dictionary-view-objects-101-480b72f71dec) |
+|Top 25 Questions on Python List|  [Blog](https://medium.com/analytics-vidhya/top-25-questions-on-python-list-e48cfef8a797) | 
+|Merging Lists in Python|  [Blog](https://medium.com/analytics-vidhya/merging-lists-in-python-4a386e4b2f21) |
+|List, Set, Dictionary Comprehensions in Python | [Blog](https://medium.com/analytics-vidhya/list-set-dictionary-comprehensions-in-python-8a0a7c06115e)  
 
 
 <br>
