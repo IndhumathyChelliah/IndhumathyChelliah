@@ -151,28 +151,30 @@
   
   | Topic          |  Article |
 |-----------------|------:|
+| Exploring Map() vs. Starmap() in Python |  [Blog](https://betterprogramming.pub/exploring-map-vs-starmap-in-python-6bcf32f5fa4a) |
+| Reduce() vs Accumulate() in Python|  [Blog](https://codeburst.io/reduce-vs-accumulate-in-python-3ecee4ee8094) | 
+| Filter() vs Filterfalse() in Python |  [Blog](https://blog.devgenius.io/filter-vs-itertools-filterfalse-in-python-d2e56ec54cae) |
+| Understanding Higher-Order Functions With Simple Examples in Python | [Blog](https://betterprogramming.pub/understanding-higher-order-functions-with-simple-examples-in-python-51dcafe9903)  
+  
+  
+  ### 12. Pandas
+  
+ | Topic          |  Article |
+|-----------------|------:|
 | An Introduction to the Python Range Function. |  [Blog](https://blog.devgenius.io/an-introduction-to-the-python-range-function-8dc8047161ef) |
 | Shallow Copy vs Deep Copy vs Assignment in Python|  [Blog](https://medium.com/analytics-vidhya/shallow-copy-vs-deep-copy-vs-assignment-in-python-921d7e413a3a) | 
 | Different Ways of Using Sorted Function in Python |  [Blog](https://medium.com/analytics-vidhya/sorted-function-using-key-parameter-in-python-7aa9b8cebfb6) |
 | How to Use Key Function in Max() and Min() in Python | [Blog](https://medium.com/analytics-vidhya/how-to-use-key-function-in-max-and-min-in-python-1fdbd661c59c)  
   
   
-  ### 12. Pandas
-  
-     | Topic          |  Article |
-|-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
-  
-  
   ### 13. Numpy
   
-     | Topic          |  Article |
+ | Topic          |  Article |
 |-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
+| An Introduction to the Python Range Function. |  [Blog](https://blog.devgenius.io/an-introduction-to-the-python-range-function-8dc8047161ef) |
+| Shallow Copy vs Deep Copy vs Assignment in Python|  [Blog](https://medium.com/analytics-vidhya/shallow-copy-vs-deep-copy-vs-assignment-in-python-921d7e413a3a) | 
+| Different Ways of Using Sorted Function in Python |  [Blog](https://medium.com/analytics-vidhya/sorted-function-using-key-parameter-in-python-7aa9b8cebfb6) |
+| How to Use Key Function in Max() and Min() in Python | [Blog](https://medium.com/analytics-vidhya/how-to-use-key-function-in-max-and-min-in-python-1fdbd661c59c)  
   
   
 
