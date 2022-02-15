@@ -70,7 +70,11 @@
 |Dictionary View Objects 101 |  [Blog](https://codeburst.io/dictionary-view-objects-101-480b72f71dec) |
 |Top 25 Questions on Python List|  [Blog](https://medium.com/analytics-vidhya/top-25-questions-on-python-list-e48cfef8a797) | 
 |Merging Lists in Python|  [Blog](https://medium.com/analytics-vidhya/merging-lists-in-python-4a386e4b2f21) |
-|List, Set, Dictionary Comprehensions in Python | [Blog](https://medium.com/analytics-vidhya/list-set-dictionary-comprehensions-in-python-8a0a7c06115e)  
+|List, Set, Dictionary Comprehensions in Python | [Blog](https://medium.com/analytics-vidhya/list-set-dictionary-comprehensions-in-python-8a0a7c06115e)
+|How to Use Lists As Stacks and Queues in Python |  [Blog](https://medium.com/analytics-vidhya/how-to-use-lists-as-stacks-and-queues-in-python-f680a84b792d) |
+|Iterable vs Iterator in Python|  [Blog](https://medium.com/analytics-vidhya/iterable-vs-iterator-in-python-eda1295a815e) | 
+|Unpacking Lists and Tuples in Python|  [Blog](https://betterprogramming.pub/unpacking-lists-and-tuples-in-python-9a396578b1df) |
+|5 Different Ways to Sort Python Dictionary | [Blog](https://blog.devgenius.io/5-different-ways-to-sort-python-dictionary-e20274fdf304) 
 
 
 <br>
