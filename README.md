@@ -124,12 +124,10 @@
   
   ### 8. Indexing and Slicing in Python
   
-     | Topic          |  Article |
+   | Topic          |  Article |
 |-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
-  
+|Indexing vs Slicing in Python|  [Blog](https://blog.devgenius.io/indexing-vs-slicing-in-python-de01cd99c499) |
+
   
   ### 9. Functions in Python
   
