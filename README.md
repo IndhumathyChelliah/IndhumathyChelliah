@@ -90,9 +90,9 @@
   
    | Topic          |  Article |
 |-----------------|------:|
-|  |  [Blog]() |
-| |  [Blog]() | 
-|  |  [Blog]() |
+|Object Value vs Object Type vs Object Id in Python  |  [Blog](https://medium.com/analytics-vidhya/object-value-vs-object-type-vs-object-id-in-python-aafd0444d23c) |
+| Exploring Python Basic Terms|  [Blog](https://blog.devgenius.io/exploring-python-basic-terms-15ba62286c53) | 
+
   
   ### 5. Loops in Python
   
