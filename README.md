@@ -75,6 +75,8 @@
 |Iterable vs Iterator in Python|  [Blog](https://medium.com/analytics-vidhya/iterable-vs-iterator-in-python-eda1295a815e) | 
 |Unpacking Lists and Tuples in Python|  [Blog](https://betterprogramming.pub/unpacking-lists-and-tuples-in-python-9a396578b1df) |
 |5 Different Ways to Sort Python Dictionary | [Blog](https://blog.devgenius.io/5-different-ways-to-sort-python-dictionary-e20274fdf304) 
+|10 Important Tips for Using Nested Lists in Python|  [Blog](https://betterprogramming.pub/10-important-tips-for-using-nested-lists-in-python-38ceca68be35) |
+|5 Different Ways to Copy List in Python | [Blog](https://blog.devgenius.io/5-different-ways-to-copy-list-in-python-9478bc6d8f02) 
 
 
 <br>
