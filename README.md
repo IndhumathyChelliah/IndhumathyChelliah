@@ -116,12 +116,11 @@
   
   ### 7. Importing Packages/Modules
   
-     | Topic          |  Article |
+   | Topic          |  Article |
 |-----------------|------:|
-| Importing Packages in Python |  [Blog](https://blog.devgenius.io/importing-packages-in-python-fb3f4a64ed14) |
-| |  [Blog]() | 
-|  |  [Blog]() |
-  
+|Importing Packages in Python |  [Blog](https://blog.devgenius.io/importing-packages-in-python-fb3f4a64ed14) |
+|Importing Modules in Python|  [Blog](https://blog.devgenius.io/importing-modules-in-python-ef4a514870bf) | 
+
   
   ### 8. Indexing and Slicing in Python
   
