@@ -1,9 +1,5 @@
 
-<div align="center">
-<img width="100%" height = "250px" src="https://www.pexels.com/photo/photo-of-orange-yellow-and-red-hello-molding-clay-954599/" alt="cover" />
-</div>
-
-### Hi there. I'm Indhumathy Chelliah 👋
+### Hi there! I'm Indhumathy Chelliah 👋
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IndhumathyChelliah.IndhumathyChelliah)
@@ -178,7 +174,15 @@
 | 10 Ways to Create Numpy Arrays|  [Blog](https://medium.com/analytics-vidhya/numpy-b741a49eae14) | 
 | Beginner’s Guide to NumPy for Data Science |  [Blog](https://pub.towardsai.net/beginners-guide-to-numpy-for-data-science-476f428adbdf) |
   
-  
+  ## Data Science Blogs
+  ### 1.Statistics
+| Topic   |      Code      |  Article |
+|----------|:-------------:|------:|
+| Exploring Descriptive Statistics Using Pandas and Seaborn  | [Code](https://github.com/IndhumathyChelliah/statistics_python/tree/master/descriptive_statistics)  | [Blog](https://pub.towardsai.net/exploring-descriptive-statistics-using-pandas-and-seaborn-1b8501e1f27f)
+| Inferential Statistics for Data Science |  | [Blog](https://pub.towardsai.net/inferential-statistics-for-data-science-91cf4e0692b1)
+
+
+
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
